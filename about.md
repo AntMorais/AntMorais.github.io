@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+## Work in progress
+
 Some information about you!
 
 ### More Information
