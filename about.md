@@ -4,14 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## Work in progress
+I am a Portuguese graduate student at the University of Coimbra. Currently I am working on my Master's thesis on Robust Neural Networks in the context of safety-critical problems. My current research interests revolve around Computer Vision, including Image Classification, Image Segmentation, and everything in between. 
 
-Some information about you!
+I am open to research opportunities in Computer Vision. If you have any questions you can contact me at [antoniomorais.nn@gmail.com](mailto:antoniomorais.nn@gmail.com).
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
